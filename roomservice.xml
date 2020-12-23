@@ -1,11 +1,11 @@
 <manifest>
-<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_device_samsung_d2att" path="device/samsung/d2att" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1"/>
-<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_vendor_samsung_d2" path="vendor/samsung/d2-common" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_device_samsung_d2att" path="device/samsung/d2att" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_external_stlport" path="external/stlport" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
+<project name="Samsung-Galaxy-S3-MSM8960/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0"/>
 </manifest>
